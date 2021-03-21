@@ -59,11 +59,11 @@ const config: MenuEntry[] = [
         label: "Github",
         href: "https://github.com/conquerswap/",
       },
-      /**
       {
         label: "Docs",
         href: "https://conquerswap.gitbook.io/conquer-swap/",
       },
+      /**
       {
         label: "Blog",
         href: "https://conquer-swap.medium.com/",
