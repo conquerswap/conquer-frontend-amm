@@ -11,7 +11,7 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "ConquerSwap Token",
+      "name": "Conquer Swap Token",
       "symbol": "BOAT",
       "address": "0x094B21EcC329DE2e8F24C51aBd5188c608403643",
       "chainId": 56,
